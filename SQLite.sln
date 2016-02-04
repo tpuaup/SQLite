@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{497757A9-C5B2-EC17-DED6-56170B51C788}") = "SQLite", "Assembly-CSharp.csproj", "{D7E58216-1075-5ACE-6C3F-D2661FC3220B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E58216-1075-5ACE-6C3F-D2661FC3220B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E58216-1075-5ACE-6C3F-D2661FC3220B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E58216-1075-5ACE-6C3F-D2661FC3220B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E58216-1075-5ACE-6C3F-D2661FC3220B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
